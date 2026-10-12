@@ -1,5 +1,6 @@
 # Bài 3: Tối ưu tốc độ CI bằng Gradle Dependency Caching
 
+h
 ## Thay đổi
 
 Trong bước `actions/setup-java@v5` của `.github/workflows/ci.yml`, thêm tham số `cache: 'gradle'`:
